@@ -1,0 +1,8 @@
+asgiref
+Django
+et-xmlfile
+openpyxl
+pillow
+sqlparse
+typing_extensions
+tzdata
