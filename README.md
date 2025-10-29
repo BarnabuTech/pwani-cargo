@@ -1,4 +1,8 @@
-# Pwani Cargo - Hackathon Pitch Presentation
+# Pwani Cargo - Digital Logistics Management System
+
+## Overview
+
+Pwani Cargo is an innovative digital solution designed to transform and streamline the logistics operations at the Port of Mombasa. The system integrates multiple stakeholders in the logistics ecosystem, providing real-time cargo tracking, automated customs clearance, and efficient port operations management. The platform is designed to improve efficiency, reduce costs, and enhance customer experience.
 
 ## Problem Statement
 
@@ -130,7 +134,7 @@ Join us in transforming Mombasa's logistics ecosystem:
 ## Contact Information
 
 - Project: Pwani Cargo
-- Team: [Team Members]
-- Email: [Contact Email]
-- Website: [Project Website]
-- Phone: [Contact Number]
+- Team: [MUHAMMED KURAUKA, ABUBAKAR HASSAN AND VINCENT CHIRIBA ]
+- Email: [barnabutech@gmail.com]
+- Website: [https://pwanicargo.com]
+- Phone: [+254794646258]
